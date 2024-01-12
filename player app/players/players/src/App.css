@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+  height: 100vh;
+  background: linear-gradient(to right, #efa2a2, #aceaac); /* Replace with your desired colors */
+
+}
+.center{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.btn-success{
+  height: 20vh;
+  width: 39vh;
+  border-radius: 30px;
+  font-size: 22px;
+}
+.btn-success:hover{
+  box-shadow: 0 0 8px 8px rgb(161, 247, 161);
+}
